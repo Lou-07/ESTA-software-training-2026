@@ -22,8 +22,7 @@
 submissions/
 └── 你的姓名/
     ├── task01/
-    |    ├── README.md
-    |    └──your-project/
+    |    └── README.md
     └── task02/...
 ```
 
